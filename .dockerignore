@@ -1,0 +1,14 @@
+node_modules
+dist
+.cache
+tests
+*.log
+Dockerfile
+docker-compose.yml
+README.md
+.env
+.env.*
+!.env.example
+.venv
+plugin-cache
+.git
